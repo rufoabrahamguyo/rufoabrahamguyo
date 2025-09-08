@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rufo Guyo
+#  Hello, I’m Rufo Abraham
 
 💻 **Software Engineering Student** 
 
@@ -32,5 +32,5 @@
 
 ✨ *“Passionate about building intelligent systems that merge software, data, and IoT to solve real-world problems.”*
 
-⚡ **Hobbies:** I love painting and swiiming..hepls me clear my mind.
+⚡ **Hobbies:** I love painting and swimming..hepls me clear my mind.
 
