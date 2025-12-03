@@ -1,12 +1,12 @@
 #  Hello there, I’m Rufo Abraham
 
- **Software Engineering Student** 
+ **Software Engineering Student at USIU-Africa** 
 
 ---
 
 ### Tech Stack
 
-* **Languages:** Java · Python · JavaScript  · SQL
+* **Languages:** Java · Python · JavaScript  · SQL · React
 * **Frameworks & Tools:**  · Node.js · Express.js · Spring Boot · Firebase
 * **Data & Analytics:**  · Pandas · scikit-learn · Matplotlib
 
