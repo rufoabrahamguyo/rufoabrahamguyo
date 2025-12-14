@@ -33,4 +33,5 @@
  *“Passionate about building intelligent systems that merge software, data, and IoT to solve real-world problems.”*
 
  **Hobbies:** I love painting ,journaling and swimming..hepls me clear my mind.
+ ![](https://hit.yhype.me/github/profile?account_id=195120098)
 
