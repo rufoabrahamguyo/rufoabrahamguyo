@@ -25,7 +25,7 @@
 ###  Let’s Connect
 
 * LinkedIn: \[https://www.linkedin.com/in/rufoabrahamguyo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android.app]
-* GitHub: [@rufoabrahamguyo](https://github.com/rufoabrahamguyo)
+
 
 
 ---
