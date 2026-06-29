@@ -37,7 +37,7 @@
 |---------|-------|
 | **Bus Safety System** | YOLOv8, OpenCV, Streamlit, Python |
 | **Student Management System** | React, Node.js, PostgreSQL, JWT |
-| **Healthy Mom** | Web platform for maternal health |
+| **Healthy Mom** | React, Node.js, PostgreSQL |
 | **POS System** | Android, Java |
 
 
