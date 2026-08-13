@@ -1,6 +1,6 @@
 # About Me
 
-🎓Software Engineering student passionate about building intelligent systems that solve real-world problems. Full-stack developer with experience in AI/ML and mobile applications.
+Software Engineering student and aspiring Software Engineer, AI Engineer, and Cloud Architect passionate about designing and building scalable, intelligent software solutions. Experienced in full-stack web and mobile development, with growing expertise in artificial intelligence, cloud technologies, and system architecture. Passionate about transforming ideas into reliable, impactful products while continuously expanding my technical and problem-solving skills.
 
 ---
 
