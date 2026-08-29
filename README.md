@@ -7,8 +7,7 @@ Software Engineering student and aspiring Software Engineer, AI Engineer, and Cl
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufoabrahamguyo)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@rufo_abraham?_r=1&_t=ZS-958a48UNVYd)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rufo_abraham?igsh=MXY4N3dsNmEzb2VoNg==)
+
 
 ## 💻 Tech Stack
 
