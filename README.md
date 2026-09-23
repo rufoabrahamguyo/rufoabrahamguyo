@@ -1,43 +1,79 @@
-# About Me
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=F5E6E8&height=220&section=header&text=Rufo%20Abraham%20Guyo&fontSize=52&fontColor=800020&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20works%20where%20the%20signal%20is%20weak&descAlignY=58&descSize=16" />
+</p>
 
-Software Engineering student and aspiring Software Engineer, AI Engineer, and Cloud Architect passionate about designing and building scalable, intelligent software solutions. Experienced in full-stack web and mobile development, with growing expertise in artificial intelligence, cloud technologies, and system architecture. Passionate about transforming ideas into reliable, impactful products while continuously expanding my technical and problem-solving skills.
+<p align="center">
+  <a href="https://github.com/rufoabrahamguyo">
 
----
+  </a>
+</p>
 
-## 🌐 Connect
+<p align="center">
+  <a href="https://rufoabraham.dev"><img src="https://img.shields.io/badge/Portfolio-rufoabraham.dev-61DAFB?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/rufoabrahamguyo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+ 
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufoabrahamguyo)
+<br>
+
+<!-- ============================== ABOUT ============================== -->
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="110" />
+
+### 🧬 `whoami`
+
+```python
+class RufoAbrahamGuyo:
+    def __init__(self):
+        self.university   = "USIU-Africa"
+        self.major        = "Software Engineering"
+        self.gpa          = 3.6
+        self.based_in     = "Nairobi, Kenya 🇰🇪"
+        self.current_role = "Software Engineering Intern @ Nobel Learning PBC"
+        self.aspiring_to  = ["Software Engineer", "AI Engineer", "Cloud Architect"]
+        self.interests    = ["HealthTech", "FinTech", "AI Startups"]
+
+    def mission(self):
+        return "Ship impactful software for the people who need it most."
+```
+
+<!-- ============================== STACK ============================== -->
+###  Toolbox
+
+<p align="center">
+  <b>Languages</b><br><br>
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp&theme=dark" />
+</p>
+<p align="center">
+  <b>Frontend & Mobile</b><br><br>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
+</p>
+<p align="center">
+  <b>Backend & Data</b><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,mongodb,firebase&theme=dark" />
+</p>
+<p align="center">
+  <b>AI / ML & Tools</b><br><br>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv,git,github&theme=dark" />
+</p>
+
+<br>
+
+<!-- ============================== STATS ============================== -->
+###  GitHub pulse
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rufoabrahamguyo&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rufoabrahamguyo&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rufoabrahamguyo&theme=tokyonight&hide_border=true&background=0d1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" />
+</p>
+
+<!-- ============================== FOOTER ============================== -->
 
 
-## 💻 Tech Stack
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## Featured Projects
-
-| Project | Stack |
-|---------|-------|
-| **Bus Safety System** | YOLOv8, OpenCV, Streamlit, Python |
-| **Student Management System** | React, Node.js, PostgreSQL, JWT |
-| **Healthy Mom** | React, Node.js, PostgreSQL |
-| **POS System** | Android, Java |
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5E6E8&height=120&section=footer" />
+</p>
