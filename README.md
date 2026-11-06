@@ -34,7 +34,7 @@ class RufoAbrahamGuyo:
         self.interests    = ["HealthTech", "FinTech", "AI Startups"]
 
     def mission(self):
-        return "Ship impactful software for the people who need it most."
+        return " Software Engineering student and emerging tech innovator.""
 ```
 
 <!-- ============================== STACK ============================== -->
