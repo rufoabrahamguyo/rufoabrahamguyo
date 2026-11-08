@@ -1,6 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=F5E6E8&height=220&section=header&text=Rufo%20Abraham%20Guyo&fontSize=52&fontColor=800020&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20works%20where%20the%20signal%20is%20weak&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=F5E6E8&height=220&section=header&text=Rufo%20Abraham%20Guyo&fontSize=52&fontColor=800020&animation=fadeIn&fontAlignY=38&desc=Building%20software%20that%20creates%20positive%20impact&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
